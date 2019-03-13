@@ -1,0 +1,3 @@
+# zhihu_practice
+爬取知乎用户信息,并保存在mongo数据库中
+详见Demo里面的README进行配置
