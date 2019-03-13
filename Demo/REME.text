@@ -1,0 +1,17 @@
+
+
+测试环境: window10
+请先安装python3.6, www.python.org官网下载.
+安装scrapy, pip install scrapy , pymongo
+IDE用的pycharm
+scrapy1.5.2
+pymongo3.7.2
+
+setting.py中的以下项只需要请填入自己的mongod地址
+MONGO_URL = 'mongodb://192.168.43.150:12345/'
+
+mongo数据库测试环境:
+centos7.6 x86-64
+mongod 4.0.5
+
+
